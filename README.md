@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jbmcto
-- 👀 I’m interested in Python, Django, RabbitMQ, MySql
-- 🌱 I’m currently learning Django
+- 👀 I’m interested in Python, Django, RabbitMQ, MySql, JQuery, SQL
+- 🌱 I’m currently learning Django, CSS
 - 💞️ I’m looking to collaborate on business processing apps
 - 📫 How to reach me LinkedIN
 
